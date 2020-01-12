@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/c8a336f4-a4f5-4a96-8d7c-4bde0a6e917a/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/taitajajaakko"
+}
